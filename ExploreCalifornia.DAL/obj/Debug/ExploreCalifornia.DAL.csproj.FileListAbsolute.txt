@@ -1,0 +1,10 @@
+C:\Users\mvolt\Documents\ExploreCalifornia\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll.config
+C:\Users\mvolt\Documents\ExploreCalifornia\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.dll
+C:\Users\mvolt\Documents\ExploreCalifornia\ExploreCalifornia.DAL\bin\Debug\ExploreCalifornia.DAL.pdb
+C:\Users\mvolt\Documents\ExploreCalifornia\ExploreCalifornia.DAL\bin\Debug\EntityFramework.dll
+C:\Users\mvolt\Documents\ExploreCalifornia\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mvolt\Documents\ExploreCalifornia\ExploreCalifornia.DAL\bin\Debug\EntityFramework.xml
+C:\Users\mvolt\Documents\ExploreCalifornia\ExploreCalifornia.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mvolt\Documents\ExploreCalifornia\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.csprojResolveAssemblyReference.cache
+C:\Users\mvolt\Documents\ExploreCalifornia\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.dll
+C:\Users\mvolt\Documents\ExploreCalifornia\ExploreCalifornia.DAL\obj\Debug\ExploreCalifornia.DAL.pdb
